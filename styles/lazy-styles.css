@@ -2,9 +2,9 @@
 
 @font-face{
     font-family: 'ASPREY-ALPHABET';
-    src: url('../fonts/ASPREY-ALPHABET.eot');
-    src: url('../fonts/ASPREY-ALPHABET.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/ASPREY-ALPHABET.woff') format('woff'),
-    url('../fonts/ASPREY-ALPHABET.ttf') format('truetype');
+    src: url('../fonts/asprey-alphabet.eot');
+    src: url('../fonts/asprey-alphabet.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/asprey-alphabet.woff') format('woff'),
+    url('../fonts/asprey-alphabet.ttf') format('truetype');
     font-display: swap;
 }

@@ -308,3 +308,9 @@ main .section.deep-background {
   background-color: var(--asprey-purple-background-color);
   color: var(--asprey-text-color);
 }
+
+main .section.deep-background a.button.primary, button.primary {
+  background-color: transparent;
+  color: var(--highlight-background-color);
+  border-color: var(--highlight-background-color);
+}
