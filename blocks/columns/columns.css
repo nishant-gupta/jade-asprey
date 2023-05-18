@@ -1,3 +1,10 @@
+/* .columns-wrapper {
+  width: 100%;
+}
+.columns {
+  width: 100%;
+} */
+
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -9,21 +16,28 @@
 
 .columns > div > div {
   order: 1;
+  margin-right: 75px;
+  margin-left: 75px;
+  text-align: center;
 }
 
 .columns > div > .columns-img-col {
   order: 0;
+  width: 50%;
+  margin: 0px;
 }
 
 .columns > div > .columns-img-col img {
   display: block;
+  height: 100%;
+  
 }
 
 @media (min-width: 900px) {
   .columns > div {
     align-items: center;
     flex-direction: unset;
-    gap: 32px;
+    /* gap: 32px; */
   }
 
   .columns > div > div {
