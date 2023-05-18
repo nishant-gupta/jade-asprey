@@ -6,4 +6,5 @@
     src: url('../fonts/ASPREY-ALPHABET.eot?#iefix') format('embedded-opentype'),
     url('../fonts/ASPREY-ALPHABET.woff') format('woff'),
     url('../fonts/ASPREY-ALPHABET.ttf') format('truetype');
+    font-display: swap;
 }
