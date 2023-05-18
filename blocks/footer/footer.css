@@ -10,6 +10,8 @@ footer {
 footer .footer {
   max-width: 1200px;
   margin: auto;
+  margin-left: 16.666%;
+  width: 66.666%;
 }
 
 footer .footer p {
