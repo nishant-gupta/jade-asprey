@@ -1,1 +1,9 @@
 /* below the fold CSS goes here */
+
+@font-face{
+    font-family: 'ASPREY-ALPHABET';
+    src: url('../fonts/ASPREY-ALPHABET.eot');
+    src: url('../fonts/ASPREY-ALPHABET.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ASPREY-ALPHABET.woff') format('woff'),
+    url('../fonts/ASPREY-ALPHABET.ttf') format('truetype');
+}
