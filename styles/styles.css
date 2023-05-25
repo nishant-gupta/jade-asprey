@@ -96,6 +96,11 @@ body.appear {
   display: unset;
 }
 
+body.dark {
+  background-color: #000;
+}
+
+
 header {
   height: var(--nav-height);
 }
